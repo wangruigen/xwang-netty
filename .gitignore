@@ -30,3 +30,6 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+netty-client/
+netty-server/
+pom.xml
